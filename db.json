@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computer_TMN",
+      "price": 4370,
+      "quantity": "5000",
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "printer",
+      "price": 4370,
+      "quantity": 800,
+      "selected": true,
+      "available": false
+    },
+    {
+      "id": 3,
+      "name": "Smartphone_TMN",
+      "price": "43709000000",
+      "quantity": 800,
+      "selected": true,
+      "available": true
+    }
+  ]
+}
